@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👩‍💻 Erna Tercero Rodríguez
 
-<!--
-**erniux/erniux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Python Developer | QA Automation Specialist | SDLC Enthusiast**
 
-Here are some ideas to get you started:
+Hola 👋 Soy Erna, desarrolladora y analista de calidad con más de 10 años de experiencia en la industria del software. Combino habilidades técnicas en **Python**, **Django**, **PostgreSQL** y **automatización de pruebas** con una sólida formación en ingeniería y análisis de datos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente curso dos maestrías:  
+🎓 **Ciencia de Datos** y **Calidad de Software** – Tech Universidad Tecnológica.
+
+---
+
+## 💼 Experiencia Destacada
+
+- 🔹 Desarrollo de APIs y automatizaciones con **Python** y **Django**  
+- 🔹 Automatización de pruebas con **Cypress**, **Playwright**, **Postman**  
+- 🔹 Experiencia en flujos de trabajo ágiles, GitHub Actions y CI/CD  
+- 🔹 Análisis de requerimientos, diseño de casos de prueba, testing manual y regresión  
+
+---
+
+## 🛠️ Stack Tecnológico
+
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)  
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white)  
+![Playwright](https://img.shields.io/badge/-Playwright-45ba63?style=flat&logo=playwright&logoColor=white)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+---
+
+## 📫 Contacto
+
+- ✉️ **erna.tercero@hotmail.com**  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/erna-tercero-rodriguez-459b3b249/)  
+- 🧪 [GitHub](https://github.com/erniux)
+
+---
+
+> “Siempre en búsqueda de calidad, eficiencia y aprendizaje constante.” 💚
+
