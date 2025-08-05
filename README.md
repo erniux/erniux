@@ -1,24 +1,26 @@
 # 👩‍💻 Erna Tercero Rodríguez
 
-**Python Developer | QA Automation Specialist | SDLC Enthusiast**
+**Python Developer | QA Automation Specialist | Lifelong Learner**
 
-Hola 👋 Soy Erna, desarrolladora y analista de calidad con más de 10 años de experiencia en la industria del software. Combino habilidades técnicas en **Python**, **Django**, **PostgreSQL** y **automatización de pruebas** con una sólida formación en ingeniería y análisis de datos.
+Hi there 👋 I'm Erna, a software quality analyst and developer with 10+ years of experience delivering high-quality web applications through testing and backend development.
 
-Actualmente curso dos maestrías:  
-🎓 **Ciencia de Datos** y **Calidad de Software** – Tech Universidad Tecnológica.
-
----
-
-## 💼 Experiencia Destacada
-
-- 🔹 Desarrollo de APIs y automatizaciones con **Python** y **Django**  
-- 🔹 Automatización de pruebas con **Cypress**, **Playwright**, **Postman**  
-- 🔹 Experiencia en flujos de trabajo ágiles, GitHub Actions y CI/CD  
-- 🔹 Análisis de requerimientos, diseño de casos de prueba, testing manual y regresión  
+I'm currently pursuing two master's degrees in:  
+🎓 **Software Quality** and **Data Science** – Tech Universidad Tecnológica.
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 💼 Professional Summary
+
+- 🔹 Backend development with **Python** and **Django**
+- 🔹 Test automation using **Cypress**, **Playwright**, and **Postman**
+- 🔹 Manual and regression testing with deep understanding of **SDLC**
+- 🔹 Agile methodologies, **CI/CD pipelines**, and GitHub Actions
+- 🔹 API validation and test data generation
+- 🔹 Continuous learner with strong foundations in mathematics and statistics
+
+---
+
+## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)  
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)  
@@ -29,7 +31,8 @@ Actualmente curso dos maestrías:
 
 ---
 
-## 📫 Contacto
+## 📫 Contact
+
 
 - ✉️ **erna.tercero@hotmail.com**  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/erna-tercero-rodriguez-459b3b249/)  
@@ -37,5 +40,5 @@ Actualmente curso dos maestrías:
 
 ---
 
-> “Siempre en búsqueda de calidad, eficiencia y aprendizaje constante.” 💚
+> "Committed to building clean code, quality software, and constant growth." 🌱
 
