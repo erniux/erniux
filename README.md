@@ -4,8 +4,8 @@
 
 Hi there 👋 I'm Erna, a software quality analyst and developer with 10+ years of experience delivering high-quality web applications through testing and backend development.
 
-I'm currently pursuing two master's degrees in:  
-🎓 **Software Quality** and **Data Science** – Tech Universidad Tecnológica.
+👩‍🎓 I'm pasionate on the SDET path so I have been working on Automation with AI. Also Started a path to be a data scientist.  
+
 
 ---
 
