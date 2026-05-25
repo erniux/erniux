@@ -20,6 +20,7 @@ Hi there 👋 I'm Erna, a Software Quality Analyst and developer with experience
 - 🔹 Agile methodologies, **CI/CD pipelines**, and GitHub Actions
 - 🔹 API validation, test data generation, and structured problem-solving
 - 🔹 Continuous learner with strong foundations in **mathematics**, **statistics**, and analytical thinking
+- 🔹 Started generating apps using Claude, Claude Code, ChatGPT and Codex to speed up my projects. 
 
 ---
 
